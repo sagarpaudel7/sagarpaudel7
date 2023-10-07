@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **paudelsagar329@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny😁**
+- ⚡ Fun fact **I'm a code composer 🎵👨‍💻 – I harmonize music and coding, creating digital symphonies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
