@@ -1,4 +1,4 @@
-![logo](https://github.com/sagarpaudel7/sagarpaudel7/blob/main/welcome%20banner.png)
+<p align="center"> <img widht= "800" src="https://github.com/sagarpaudel7/sagarpaudel7/blob/main/welcome%20banner.png"/></p>
 <h1 align="center">Hi 👋, I'm Sagar Paudel</h1>
 <h3 align="center">A passionate Flutter app developer from Nepal</h3>
 <img align="right" alt ="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **paudelsagar329@gmail.com**
+- 📫 How to reach me **sagarpaudel749@gmail.com**
 
 - ⚡ Fun fact **I'm a code composer 🎵👨‍💻 – I harmonize music and coding, creating digital symphonies!**
 
