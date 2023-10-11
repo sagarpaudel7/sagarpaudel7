@@ -3,7 +3,9 @@
 <h3 align="center">A passionate Flutter app developer from Nepal</h3>
 <img align="right" alt ="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarpaudel7&label=Profile%20views&color=0e75b6&style=flat" alt="sagarpaudel7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarpaudel7&label=Profile%20views&color=0e75b6&style=flat" alt="sagarpaudel7"/><a href="https://www.github.com/sagarpaudel7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/sagarpaudel7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a></p>
+
+
 
 - 🌱 I’m currently learning **Flutter, State Management**
 
@@ -17,6 +19,7 @@
 
 - ⚡ Fun fact **I'm a code composer 🎵👨‍💻 – I harmonize music and coding, creating digital symphonies!**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarpaudel7" alt="sagarpaudel7" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
