@@ -1,6 +1,6 @@
 <p align="center"> <img widht= "800" src="https://github.com/sagarpaudel7/sagarpaudel7/blob/main/welcome%20banner.png"/></p>
 <h1 align="center">Hi 👋, I'm Sagar Paudel</h1>
-<h3 align="center">A passionate Flutter app developer from Nepal</h3>
+<h3 align="center">A passionate Mobile app dev.</h3>
 <img align="right" alt ="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarpaudel7&label=Profile%20views&color=0e75b6&style=flat" alt="sagarpaudel7"/><a href="https://www.github.com/sagarpaudel7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/sagarpaudel7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a></p>
